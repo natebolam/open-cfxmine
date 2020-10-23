@@ -1,0 +1,2 @@
+# open-cfxmine
+Conflux miner
